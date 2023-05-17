@@ -9,4 +9,3 @@ for _ in range(int(input())):
         print("Win")
     else:
         print("Lose")
-    
